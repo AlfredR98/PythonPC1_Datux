@@ -9,5 +9,5 @@ payaso = int(input('¿Cuantos payasos se vendieron?\n'))
 peso_muñeco = muñeco * 75
 peso_payaso = payaso * 112
 
-print(f'El peso del paquete de los muñecos es {peso_muñeco}g y del paquete de los payasos es {peso_payaso}g')
+print(f'El peso del paquete de los muñecos es {peso_muñeco}g y el paquete de los payasos es {peso_payaso}g')
 

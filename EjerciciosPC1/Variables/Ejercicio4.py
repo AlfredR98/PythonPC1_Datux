@@ -5,5 +5,4 @@
 n = int(input('Ingrese un número entero: '))
 
 f = int((n * (n + 1) ) / 2)
-
 print(f'El resultado es: {f}')
